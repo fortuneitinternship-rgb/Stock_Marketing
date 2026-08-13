@@ -1,0 +1,13 @@
+Total :
+
+5 Companies
+SBIN , AIRTEL, TCS, DABUR, Sun Pharma
+
+Year From (2020 - 2026)
+
+Each file have >- 
+
+Number of rows    Number of Columns      Column Names          Data Types      Date Range            No. of Comapnies      Missing values    Duplicate Records
+
+1. 8165              7            [Date, Close, Open, High,     str, float     01/2020 - 07/2026           5                     0                0
+                                     Low, Adj Close, Volume]
